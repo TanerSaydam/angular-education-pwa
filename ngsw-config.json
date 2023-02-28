@@ -31,7 +31,7 @@
   {
     "name": "test",
     "version": 1,
-    "urls": ["https://jsonplaceholder.typicode.com/**"],
+    "urls": ["https://jsonplaceholder.typicode.com/todos"],
     "cacheConfig": {
       "maxAge": "1d2h",
       "maxSize": 10,
